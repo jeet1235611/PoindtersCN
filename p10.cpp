@@ -2,11 +2,13 @@
 using namespace std;
 
 int main() {
-	int i;
+	int i = 10;
 	cout << &i << endl;
 	int* p = &i;
-
+	
 	cout << p << endl;
+
+	cout << *p << endl;
 
 	float f = 10.2;
 	float *pf = &f;
