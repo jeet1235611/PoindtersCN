@@ -1,6 +1,8 @@
 //Interesting error runtime pe 
 //Stupid mistakes
 
+//PONTERS me 0 daal do but garbage mat chhodo.
+
 #include <iostream>
 using namespace std;
 
